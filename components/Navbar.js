@@ -12,7 +12,6 @@ function Navbar() {
                         <a href="#skills" className="nav-link text-gray-300 hover:text-white">Skills</a>
                         <a href="#projects" className="nav-link text-gray-300 hover:text-white">Projects</a>
                         <a href="#experience" className="nav-link text-gray-300 hover:text-white">Experience</a>
-                        <a href="#contact" className="nav-link text-gray-300 hover:text-white">Contact</a>
                     </div>
 
                     <button 
@@ -30,7 +29,6 @@ function Navbar() {
                             <a href="#skills" className="text-gray-300 hover:text-white">Skills</a>
                             <a href="#projects" className="text-gray-300 hover:text-white">Projects</a>
                             <a href="#experience" className="text-gray-300 hover:text-white">Experience</a>
-                            <a href="#contact" className="text-gray-300 hover:text-white">Contact</a>
                         </div>
                     </div>
                 )}

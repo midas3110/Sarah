@@ -7,7 +7,6 @@ function App() {
             <Skills />
             <Projects />
             <Experience />
-            <Contact />
             <Footer />
         </div>
     );
